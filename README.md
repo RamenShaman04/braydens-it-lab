@@ -4,15 +4,13 @@ A full build of a two-office, three-tier (Access / Distribution / Core) enterpri
 
 > **Credit:** Lab design by [Jeremy's IT Lab](https://www.youtube.com/@JeremysITLab). The configuration, documentation, and verification here are my own work.
 
-**Author:** [Your Name] | **Certification:** CCNA | **Tool:** Cisco Packet Tracer | [LinkedIn](https://www.linkedin.com/in/your-profile)
+**Author:** Brayden Neeley | **Certification:** CCNA | **Tool:** Cisco Packet Tracer | [LinkedIn](https://www.linkedin.com/in/braydenneeley/)
 
 ---
 
 ## Topology
 
-![Network topology](<img width="844" height="540" alt="topology" src="https://github.com/user-attachments/assets/528f81c7-52c4-4d2e-9832-99d96f235859" />
-
-)
+![Network topology](images/topology.png)
 
 - **Office A** and **Office B**, each with two Distribution switches and three Access switches
 - **Core:** two Layer 3 switches (CSW1, CSW2) in an EtherChannel
@@ -294,4 +292,4 @@ Screenshots and output proving the network works.
 
 ## Contact
 
-[Your Name] | [LinkedIn](https://www.linkedin.com/in/your-profile) | [your.email@example.com](mailto:your.email@example.com)
+Brayden Neeley | [LinkedIn](https://www.linkedin.com/in/braydenneeley/) | [brayworksdesign@gmail.com](mailto:brayworksdesign@gmail.com)
