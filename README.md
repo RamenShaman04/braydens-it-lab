@@ -10,7 +10,8 @@ A full build of a two-office, three-tier (Access / Distribution / Core) enterpri
 
 ## Topology
 
-![Network topology](<img width="844" height="540" alt="image" src="https://github.com/user-attachments/assets/abdd0de7-c9ee-4193-9dc4-f329411abaf2" />
+![Network topology](<img width="844" height="540" alt="topology" src="https://github.com/user-attachments/assets/528f81c7-52c4-4d2e-9832-99d96f235859" />
+
 )
 
 - **Office A** and **Office B**, each with two Distribution switches and three Access switches
