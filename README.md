@@ -260,38 +260,47 @@ Screenshots proving the network works. Each image is named after the check it sh
 `show vtp status`
  
 <img src="images/verify-vtp.png" alt="VTP status" width="700">
+
 ### EtherChannels
 `show etherchannel summary`
  
 <img src="images/verify-etherchannel.png" alt="EtherChannel summary" width="700">
+
 ### HSRP
 `show standby brief`
  
 <img src="images/verify-hsrp.png" alt="HSRP brief" width="700">
+
 ### Spanning Tree
 `show spanning-tree summary`
  
 <img src="images/verify-stp.png" alt="STP summary" width="700">
+
 ### OSPF
 `show ip ospf neighbor`
  
 <img src="images/verify-ospf.png" alt="OSPF neighbors" width="700">
+
 ### Routing Table
 `show ip route`
  
 <img src="images/verify-routes.png" alt="Routing table" width="700">
+
 ### DHCP
 `show ip dhcp binding`
  
 <img src="images/verify-dhcp.png" alt="DHCP bindings" width="700">
+
 ### NAT
 `show ip nat translations`
  
 <img src="images/verify-nat.png" alt="NAT translations" width="700">
+
 ### Internet Reachability
 `ping jeremysitlab.com` from a PC
  
 <img src="images/verify-ping.png" alt="Ping test" width="700">
+
 ### Wireless
 WLC > Wireless tab, showing both APs joined
  
