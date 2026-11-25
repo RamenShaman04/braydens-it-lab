@@ -311,7 +311,6 @@ WLC > Wireless tab, showing both APs joined
 - **Documentation habits matter.** Writing the *why* next to each command exposed gaps in my understanding that exam questions never did.
 - **Layer 2 and Layer 3 have to agree.** Aligning STP roots with HSRP active routers made the design make sense end to end.
 - **Verify, don't assume.** Catching the duplicate WLC address came from reading the addressing plan instead of copying the video.
-- *(Add one or two real problems you hit, what the symptom was, and how you fixed it.)*
 
 ## How to Use This Lab
 
