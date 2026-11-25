@@ -6,6 +6,14 @@ A full build of a two-office, three-tier (Access / Distribution / Core) enterpri
 
 **Author:** Brayden Neeley | **Certification:** CCNA | **Tool:** Cisco Packet Tracer | [LinkedIn](https://www.linkedin.com/in/braydenneeley/)
 
+## How to Use This Lab
+
+1. Install [Cisco Packet Tracer](https://www.netacad.com/cisco-packet-tracer) (free with a Networking Academy account).
+2. Download `CCNA-Mega-Lab.pkt` from this repo and open it.
+3. Follow the task list in [`docs/walkthrough.md`](docs/walkthrough.md).
+
+> Passwords in this repo (such as the enable secret and WPA2 key) are specified by the lab and exist only in a simulation.
+
 ---
 
 ## Topology
@@ -311,14 +319,6 @@ WLC > Wireless tab, showing both APs joined
 - **Documentation habits matter.** Writing the *why* next to each command exposed gaps in my understanding that exam questions never did.
 - **Layer 2 and Layer 3 have to agree.** Aligning STP roots with HSRP active routers made the design make sense end to end.
 - **Verify, don't assume.** Catching the duplicate WLC address came from reading the addressing plan instead of copying the video.
-
-## How to Use This Lab
-
-1. Install [Cisco Packet Tracer](https://www.netacad.com/cisco-packet-tracer) (free with a Networking Academy account).
-2. Download `CCNA-Mega-Lab.pkt` from this repo and open it.
-3. Follow the task list in [`docs/walkthrough.md`](docs/walkthrough.md).
-
-> Passwords in this repo (such as the enable secret and WPA2 key) are specified by the lab and exist only in a simulation.
 
 ## Next Steps
 
